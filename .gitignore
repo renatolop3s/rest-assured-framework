@@ -1,0 +1,13 @@
+.allure/
+.mvn/wrapper/maven-wrapper.jar
+target/
+allure-results/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+
+### macOS ###
+.DS_Store
